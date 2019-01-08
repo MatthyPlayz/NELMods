@@ -5,7 +5,7 @@ G.AddData({
     engineVersion:1,
     manifest:'https://raw.githubusercontent.com/MatthyPlayz/NELMods/master/NELScientexstManifest.js',
     requires:['Default dataset*'],
-    sheets:{'sheet':'./CharSheetScientesxt.png'},//custom stylesheet (note : broken in IE and Edge for the time being)
+    sheets:{'sheet':'https://github.com/MatthyPlayz/NELMods/blob/master/CharSheetScientesxt.png?raw=true'},//custom stylesheet (note : broken in IE and Edge for the time being)
     func:function()
     {   
 		new G.Res({
