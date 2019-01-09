@@ -1,6 +1,6 @@
 G.DeclareManifest({
 name:'Scientexst manifest",
 updates:{
-	'Scientexst':'https://hastebin.com/apufeyoqer.js'
+	'Scientexst':'https://github.com/MatthyPlayz/NELMods/blob/master/Scientexst.js'
 }
 });
